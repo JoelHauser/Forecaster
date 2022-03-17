@@ -10,7 +10,7 @@ This application is desinged for those who are looking to check the weather! Thi
 
 ## Demo
 
-![How it works](https://github.com/JoelHauser/Forecaster/blob/main/Demo/Untitled_%20Mar%2017%2C%202022%201_43%20PM.gif)
+![How it works](https://github.com/JoelHauser/Forecaster/blob/main/assets/JS/Demo/Untitled_%20Mar%2017%2C%202022%201_43%20PM.gif)
 
 
 ## Installation
