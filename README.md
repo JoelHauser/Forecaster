@@ -1,6 +1,6 @@
 
 # Weather Forecaster!
-This application is desinged for those who are looking to check the weather! This application takes into account: Tempature, Humidity, UV index, and Wind Speed! 
+This application is designed for those who are looking to check the weather! This application takes into account: Tempature, Humidity, UV index, and Wind Speed! 
 
 
 ## The Functional Site
